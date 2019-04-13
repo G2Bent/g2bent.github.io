@@ -66,6 +66,17 @@
     
     
     <entry>
+      <title>About Me</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="姓名：凌宝万"><a href="#姓名：凌宝万" class="headerlink" title="姓名：凌宝万"></a>姓名：凌宝万</h4><h4 id="English-Name：-Job-Vant"><a href="#English-Name：-Job-Vant" class="headerlink" title="English Name： Job Vant"></a>English Name： Job Vant</h4><h4 id="职业：Automatic-Testing-Engineer"><a href="#职业：Automatic-Testing-Engineer" class="headerlink" title="职业：Automatic Testing Engineer"></a>职业：Automatic Testing Engineer</h4>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
